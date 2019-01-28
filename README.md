@@ -1,4 +1,4 @@
 # pynet-class
 Python Class Git
 
-Modified github README file
+Modified the README file in github
